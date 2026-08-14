@@ -1,0 +1,536 @@
+{
+  "library": "Supersaw",
+  "format": "flac",
+  "fileCount": 88,
+  "files": [
+    {
+      "file": "Super_Saw_A_0.flac",
+      "name": "Super Saw A#0",
+      "size": 705829,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_1.flac",
+      "name": "Super Saw A#1",
+      "size": 750720,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_2.flac",
+      "name": "Super Saw A#2",
+      "size": 796538,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_3.flac",
+      "name": "Super Saw A#3",
+      "size": 828172,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_4.flac",
+      "name": "Super Saw A#4",
+      "size": 850662,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_5.flac",
+      "name": "Super Saw A#5",
+      "size": 869005,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_6.flac",
+      "name": "Super Saw A#6",
+      "size": 881991,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A_7.flac",
+      "name": "Super Saw A#7",
+      "size": 796930,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A0.flac",
+      "name": "Super Saw A0",
+      "size": 705623,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A1.flac",
+      "name": "Super Saw A1",
+      "size": 751156,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A2.flac",
+      "name": "Super Saw A2",
+      "size": 794114,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A3.flac",
+      "name": "Super Saw A3",
+      "size": 827703,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A4.flac",
+      "name": "Super Saw A4",
+      "size": 855234,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A5.flac",
+      "name": "Super Saw A5",
+      "size": 856782,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A6.flac",
+      "name": "Super Saw A6",
+      "size": 861328,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_A7.flac",
+      "name": "Super Saw A7",
+      "size": 793978,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B0.flac",
+      "name": "Super Saw B0",
+      "size": 718549,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B1.flac",
+      "name": "Super Saw B1",
+      "size": 760342,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B2.flac",
+      "name": "Super Saw B2",
+      "size": 796842,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B3.flac",
+      "name": "Super Saw B3",
+      "size": 829262,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B4.flac",
+      "name": "Super Saw B4",
+      "size": 846625,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B5.flac",
+      "name": "Super Saw B5",
+      "size": 860550,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B6.flac",
+      "name": "Super Saw B6",
+      "size": 875378,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_B7.flac",
+      "name": "Super Saw B7",
+      "size": 749865,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_1.flac",
+      "name": "Super Saw C#1",
+      "size": 719526,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_2.flac",
+      "name": "Super Saw C#2",
+      "size": 761601,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_3.flac",
+      "name": "Super Saw C#3",
+      "size": 805041,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_4.flac",
+      "name": "Super Saw C#4",
+      "size": 832688,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_5.flac",
+      "name": "Super Saw C#5",
+      "size": 855246,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_6.flac",
+      "name": "Super Saw C#6",
+      "size": 865642,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C_7.flac",
+      "name": "Super Saw C#7",
+      "size": 864845,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C1.flac",
+      "name": "Super Saw C1",
+      "size": 706447,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C2.flac",
+      "name": "Super Saw C2",
+      "size": 757601,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C3.flac",
+      "name": "Super Saw C3",
+      "size": 802704,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C4.flac",
+      "name": "Super Saw C4",
+      "size": 838696,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C5.flac",
+      "name": "Super Saw C5",
+      "size": 857660,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C6.flac",
+      "name": "Super Saw C6",
+      "size": 878125,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C7.flac",
+      "name": "Super Saw C7",
+      "size": 881135,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_C8.flac",
+      "name": "Super Saw C8",
+      "size": 767012,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_1.flac",
+      "name": "Super Saw D#1",
+      "size": 727550,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_2.flac",
+      "name": "Super Saw D#2",
+      "size": 767220,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_3.flac",
+      "name": "Super Saw D#3",
+      "size": 809472,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_4.flac",
+      "name": "Super Saw D#4",
+      "size": 842555,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_5.flac",
+      "name": "Super Saw D#5",
+      "size": 858347,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_6.flac",
+      "name": "Super Saw D#6",
+      "size": 860855,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D_7.flac",
+      "name": "Super Saw D#7",
+      "size": 830977,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D1.flac",
+      "name": "Super Saw D1",
+      "size": 722835,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D2.flac",
+      "name": "Super Saw D2",
+      "size": 769207,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D3.flac",
+      "name": "Super Saw D3",
+      "size": 808838,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D4.flac",
+      "name": "Super Saw D4",
+      "size": 839601,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D5.flac",
+      "name": "Super Saw D5",
+      "size": 861137,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D6.flac",
+      "name": "Super Saw D6",
+      "size": 867488,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_D7.flac",
+      "name": "Super Saw D7",
+      "size": 886962,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E1.flac",
+      "name": "Super Saw E1",
+      "size": 726413,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E2.flac",
+      "name": "Super Saw E2",
+      "size": 775326,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E3.flac",
+      "name": "Super Saw E3",
+      "size": 817595,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E4.flac",
+      "name": "Super Saw E4",
+      "size": 838171,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E5.flac",
+      "name": "Super Saw E5",
+      "size": 859343,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E6.flac",
+      "name": "Super Saw E6",
+      "size": 865326,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_E7.flac",
+      "name": "Super Saw E7",
+      "size": 847389,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_1.flac",
+      "name": "Super Saw F#1",
+      "size": 735199,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_2.flac",
+      "name": "Super Saw F#2",
+      "size": 776796,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_3.flac",
+      "name": "Super Saw F#3",
+      "size": 816831,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_4.flac",
+      "name": "Super Saw F#4",
+      "size": 837933,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_5.flac",
+      "name": "Super Saw F#5",
+      "size": 864237,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_6.flac",
+      "name": "Super Saw F#6",
+      "size": 870330,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F_7.flac",
+      "name": "Super Saw F#7",
+      "size": 802453,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F1.flac",
+      "name": "Super Saw F1",
+      "size": 734927,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F2.flac",
+      "name": "Super Saw F2",
+      "size": 781457,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F3.flac",
+      "name": "Super Saw F3",
+      "size": 819622,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F4.flac",
+      "name": "Super Saw F4",
+      "size": 842737,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F5.flac",
+      "name": "Super Saw F5",
+      "size": 860119,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F6.flac",
+      "name": "Super Saw F6",
+      "size": 873093,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_F7.flac",
+      "name": "Super Saw F7",
+      "size": 865588,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_1.flac",
+      "name": "Super Saw G#1",
+      "size": 754137,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_2.flac",
+      "name": "Super Saw G#2",
+      "size": 786656,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_3.flac",
+      "name": "Super Saw G#3",
+      "size": 816434,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_4.flac",
+      "name": "Super Saw G#4",
+      "size": 848086,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_5.flac",
+      "name": "Super Saw G#5",
+      "size": 869173,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_6.flac",
+      "name": "Super Saw G#6",
+      "size": 867586,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G_7.flac",
+      "name": "Super Saw G#7",
+      "size": 779398,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G1.flac",
+      "name": "Super Saw G1",
+      "size": 745411,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G2.flac",
+      "name": "Super Saw G2",
+      "size": 787773,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G3.flac",
+      "name": "Super Saw G3",
+      "size": 821652,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G4.flac",
+      "name": "Super Saw G4",
+      "size": 846176,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G5.flac",
+      "name": "Super Saw G5",
+      "size": 866249,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G6.flac",
+      "name": "Super Saw G6",
+      "size": 871899,
+      "source": "m4a (lossy)"
+    },
+    {
+      "file": "Super_Saw_G7.flac",
+      "name": "Super Saw G7",
+      "size": 804165,
+      "source": "m4a (lossy)"
+    }
+  ],
+  "note": "From m4a (lossy source)"
+}
